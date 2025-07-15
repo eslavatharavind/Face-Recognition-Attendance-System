@@ -111,8 +111,7 @@ The system now includes GPS location tracking:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
+
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
